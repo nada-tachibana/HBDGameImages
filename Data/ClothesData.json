@@ -170,10 +170,10 @@
         {
             "folderName": "Bg",
             "spriteName": [
+                "Bg0",
                 "Bg1",
                 "Bg2",
-                "Bg3",
-                "Bg4"
+                "Bg3"
             ]
         }
     ]
