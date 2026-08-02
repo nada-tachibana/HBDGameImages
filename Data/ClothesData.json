@@ -3,16 +3,16 @@
         {
             "folderName": "Body",
             "spriteName": [
-                "Bbody0",
-                "Bbody1",
-                "Bbody2",
-                "Bbody3",
-                "Bbody4",
-                "Bbody5",
-                "Bbody6",
-                "Bbody7",
-                "Bbody8",
-                "Bbody9"
+                "Body0",
+                "Body1",
+                "Body2",
+                "Body3",
+                "Body4",
+                "Body5",
+                "Body6",
+                "Body7",
+                "Body8",
+                "Body9"
             ]
         },
         {
@@ -170,10 +170,10 @@
         {
             "folderName": "Bg",
             "spriteName": [
-                "kisekae_game_bg1",
-                "kisekae_game_bg2",
-                "kisekae_game_bg3",
-                "kisekae_game_bg4"
+                "Bg1",
+                "Bg2",
+                "Bg3",
+                "Bg4"
             ]
         }
     ]
