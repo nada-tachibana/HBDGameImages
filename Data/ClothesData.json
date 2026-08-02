@@ -14,6 +14,167 @@
                 "Bbody8",
                 "Bbody9"
             ]
+        },
+        {
+            "folderName": "Face",
+            "spriteName": [
+                "Face0",
+                "Face1",
+                "Face2",
+                "Face3",
+                "Face4",
+                "Face5",
+                "Face6",
+                "Face7",
+                "Face8"
+            ]
+        },
+        {
+            "folderName": "Head",
+            "spriteName": [
+                "Head0",
+                "Head1",
+                "Head2",
+                "Head3",
+                "Head4",
+                "Head5",
+                "Head6",
+                "Head7",
+                "Head8",
+                "Head9",
+                "Head10",
+                "Head11"
+            ]
+        },
+        {
+            "folderName": "Front",
+            "spriteName": [
+                "Front0",
+                "Front1",
+                "Front2",
+                "Front3",
+                "Front4",
+                "Front5",
+                "Front6",
+                "Front7",
+                "Front8",
+                "Front9",
+                "Front10",
+                "Front11",
+                "Front12",
+                "Front13",
+                "Front14",
+                "Front15"
+            ]
+        },
+        {
+            "folderName": "Headband",
+            "spriteName": [
+                "Headband0",
+                "Headband1",
+                "Headband2",
+                "Headband3",
+                "Headband4",
+                "Headband5",
+                "Headband6",
+                "Headband7",
+                "Headband8",
+                "Headband9",
+                "Headband10",
+                "Headband11",
+                "Headband12",
+                "Headband13"
+            ]
+        },
+        {
+            "folderName": "Top",
+            "spriteName": [
+                "Top0",
+                "Top1",
+                "Top2",
+                "Top3",
+                "Top4",
+                "Top5",
+                "Top6",
+                "Top7",
+                "Top8",
+                "Top9",
+                "Top10",
+                "Top11",
+                "Top12",
+                "Top13"
+            ]
+        },
+        {
+            "folderName": "Bottom",
+            "spriteName": [
+                "Bottom0",
+                "Bottom1",
+                "Bottom2",
+                "Bottom3",
+                "Bottom4",
+                "Bottom5",
+                "Bottom6",
+                "Bottom7",
+                "Bottom8",
+                "Bottom9",
+                "Bottom10",
+                "Bottom11",
+                "Bottom12",
+                "Bottom13"
+            ]
+        },
+        {
+            "folderName": "Set",
+            "spriteName": [
+                "Set0",
+                "Set1",
+                "Set2",
+                "Set3",
+                "Set4",
+                "Set5",
+                "Set6",
+                "Set7",
+                "Set8",
+                "Set9",
+                "Set10",
+                "Set11",
+                "Set12",
+                "Set13",
+                "Set14",
+                "Set15",
+                "Set16",
+                "Set17",
+                "Set18",
+                "Set19",
+                "Set20",
+                "Set21",
+                "Set22",
+                "Set23"
+            ]
+        },
+        {
+            "folderName": "Socks",
+            "spriteName": [
+                "Socks0",
+                "Socks1",
+                "Socks2",
+                "Socks3",
+                "Socks4",
+                "Socks5",
+                "Socks6",
+                "Socks7",
+                "Socks8"
+            ]
+        },
+        {
+            "folderName": "Bg",
+            "spriteName": [
+                "kisekae_game_bg1",
+                "kisekae_game_bg2",
+                "kisekae_game_bg3",
+                "kisekae_game_bg4"
+            ]
         }
     ]
 }
